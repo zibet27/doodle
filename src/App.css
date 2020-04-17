@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url("assets/bg.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: aliceblue;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.popper a {
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.76);
+    width: 5em;
+    margin: 0.3em auto;
+}
+
+.author {
+    position: absolute;
+    top: 90%;
+    left: 5%;
+}
+
+

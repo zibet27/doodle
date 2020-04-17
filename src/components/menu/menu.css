@@ -1,0 +1,28 @@
+.menu {
+    display: flex;
+    width: fit-content;
+    float: right;
+    margin-top: 1.5em;
+    margin-right: 1.5em;
+}
+
+.menu a {
+    margin-right: 1em;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1em;
+}
+
+.menu .avatar {
+    width: 2.5em;
+    height: 2.5em;
+    margin-top: -0.8em;
+    margin-left: 0.5em;
+}
+
+.popper {
+    width: 15em;
+    background: aliceblue;
+    margin-top: 2em;
+    border-radius: 0.3em;
+}

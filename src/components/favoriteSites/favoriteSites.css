@@ -1,0 +1,49 @@
+.favoriteSites {
+    min-width: 25em;
+    max-width: 30em;
+    margin: 3em auto 0 auto;
+}
+
+.favoriteSites a {
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+    height: 5em;
+    width: 5em;
+    margin: 0.7em;
+}
+
+.favoriteSites svg {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+}
+
+.favoriteSites img {
+    padding: 0;
+    margin: 0;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+}
+
+.addAppForm {
+    background: aliceblue;
+    width: 25em;
+    height: 21.5em;
+}
+
+.addAppForm div {
+    margin: 0.5em;
+    text-align: center;
+    min-width: 21em;
+}
+
+.addAppForm button {
+    background: cornflowerblue;
+    float: right;
+    margin-right: 0.5em;
+    font-weight: 500;
+}
